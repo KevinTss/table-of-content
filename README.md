@@ -62,6 +62,7 @@ I'm Kevin Tassi, and love the development and I will always spend time to learn 
 - HYF Teaching tips: [Repo](https://github.com/KevinTss/teaching_tips_tricks)
 - Storybook: [Design System](https://github.com/KevinTss/design-system)
 - IBM Carbon Design System [Repo](https://github.com/KevinTss/carbon)
+- Carbon Storybook: [Repo](https://github.com/KevinTss/carbon-components-react)
 
 ### Assignements
 
