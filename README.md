@@ -42,6 +42,7 @@ I'm Kevin Tassi, and love the development and I will always spend time to learn 
 - NestJS experiment: [Repo](https://github.com/KevinTss/backend-nestjs)
 - Twilio-SDK-PHP-Starter: [Repo](https://github.com/KevinTss/sdk-starter-php)
 - JavaScript range datetime picker: [Repo](https://github.com/KevinTss/homemade-rangepicker)
+- Javascript canvas: [Repo](https://github.com/KevinTss/javascript--canvas-handling)
 
 ### Hack Your Future
 
