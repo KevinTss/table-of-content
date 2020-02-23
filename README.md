@@ -55,6 +55,8 @@ I'm Kevin Tassi, and love the development and I will always spend time to learn 
 #### Extra classes
 
 - [Webpack and ReactJS](https://github.com/KevinTss/hyf-ec--webpack-and-react)
+- [CSS responsiveness](https://github.com/KevinTss/hyf-ec--responsiveness)
+- [CSS](https://github.com/KevinTss/hyf-ec--css)
 
 ### Forked
 
