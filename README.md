@@ -52,6 +52,10 @@ I'm Kevin Tassi, and love the development and I will always spend time to learn 
 - Old Classes I gave for HYF: [Repo](https://github.com/KevinTss/HYF-old)
 - Create a repos as a student: [Repo](https://github.com/KevinTss/hack-my-future)
 
+#### In class demos
+
+- [JavaScript](https://github.com/KevinTss/hyf-demo--javascript)
+
 #### Extra classes
 
 - [Webpack and ReactJS](https://github.com/KevinTss/hyf-ec--webpack-and-react)
