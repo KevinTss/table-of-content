@@ -76,3 +76,7 @@ I'm Kevin Tassi, and love the development and I will always spend time to learn 
 
 - Test for BSit: [NodeJS Backend](https://github.com/KevinTss/bsit--assignment-backend-nodejs) & [VueJS Frontend](https://github.com/KevinTss/bsit--assignment-frontend-vuejs)
 - Test for TWC: [Repo](https://github.com/KevinTss/twc--assignment-frontend)
+
+### Extra classes 
+
+- Mini website for a student: [Repo](https://github.com/KevinTss/ec--mini-site-presentation-liege)
