@@ -20,13 +20,12 @@ I'm Kevin Tassi, and love the development and I will always spend time to learn 
 - Github Learning Lab: [Repo](https://github.com/KevinTss/github-slideshow)
 - Docker: [Repo 1](https://github.com/KevinTss/docker) | [Repo 2](https://github.com/KevinTss/docker-tutorial)
 - TypeScript: [Repo](https://github.com/KevinTss/typescript--first-test-app)
-- PostgreSQL: [Repo](https://github.com/KevinTss/Postgresql)
+- PostgreSQL: [Repo](https://github.com/KevinTss/postgresql)
 - PHP: [Basic](https://github.com/KevinTss/PHP--basic) - [Laravel 5](https://github.com/KevinTss/PHP--Laravel-5.0)
 - AWS: [Discovery](https://github.com/KevinTss/AWS--Decouverte)
 - Webpack: [Understandings](https://github.com/KevinTss/WebPack--Comprendre-webpack)
 - NodeJS: [Guide](https://github.com/KevinTss/NodeJS--The-Complete-Guide) - [ExpressMovies](https://github.com/KevinTss/VueJS-Complete-guide)
 - VueJS: [Guide](https://github.com/KevinTss/VueJS-Complete-guide)
-- PostgreSQL: [Repo](https://github.com/KevinTss/postgresql)
 
 ### Sandboxes
 
