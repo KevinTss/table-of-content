@@ -26,6 +26,7 @@ I'm Kevin Tassi, and love the development and I will always spend time to learn 
 - Webpack: [Understandings](https://github.com/KevinTss/WebPack--Comprendre-webpack)
 - NodeJS: [Guide](https://github.com/KevinTss/NodeJS--The-Complete-Guide) - [ExpressMovies](https://github.com/KevinTss/VueJS-Complete-guide)
 - VueJS: [Guide](https://github.com/KevinTss/VueJS-Complete-guide)
+- PostgreSQL: [Repo](https://github.com/KevinTss/postgresql)
 
 ### Sandboxes
 
