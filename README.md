@@ -1,4 +1,4 @@
-# table-of-content
+# Table of content
 
 This repo explain all the content of my github account
 
@@ -72,10 +72,11 @@ I'm Kevin Tassi, and love the development and I will always spend time to learn 
 - IBM Carbon Design System [Repo](https://github.com/KevinTss/carbon)
 - Carbon Storybook: [Repo](https://github.com/KevinTss/carbon-components-react)
 
-### Assignements
+### Assignments
 
 - Test for BSit: [NodeJS Backend](https://github.com/KevinTss/bsit--assignment-backend-nodejs) & [VueJS Frontend](https://github.com/KevinTss/bsit--assignment-frontend-vuejs)
 - Test for TWC: [Repo](https://github.com/KevinTss/twc--assignment-frontend)
+- Test for Love to know: [Repo](https://github.com/KevinTss/love-to-know--assignement)
 
 ### Extra classes 
 
