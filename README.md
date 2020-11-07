@@ -79,6 +79,7 @@ I'm Kevin Tassi, and love the development and I will always spend time to learn 
 - Test for TWC: [Repo](https://github.com/KevinTss/twc--assignment-frontend)
 - Test for Love to know: [Repo](https://github.com/KevinTss/love-to-know--assignement)
 
-### Extra classes 
+### Personnal classes
 
 - Mini website for a student: [Repo](https://github.com/KevinTss/ec--mini-site-presentation-liege)
+- Shoes store Archiweb: [Repo](https://github.com/KevinTss/archi-web)
