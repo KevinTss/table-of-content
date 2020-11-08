@@ -83,3 +83,9 @@ I'm Kevin Tassi, and love the development and I will always spend time to learn 
 
 - Mini website for a student: [Repo](https://github.com/KevinTss/ec--mini-site-presentation-liege)
 - Shoes store Archiweb: [Repo](https://github.com/KevinTss/archi-web)
+
+### Other
+
+- [Screen Side website](https://github.com/KevinTss/screen-side)
+- [Javascript Brussels website](https://github.com/KevinTss/javascript.brussels)
+- [Ludo website](https://github.com/KevinTss/ludo-website) 
