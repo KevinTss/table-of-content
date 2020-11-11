@@ -84,6 +84,7 @@ I'm Kevin Tassi, and love the development and I will always spend time to learn 
 - Mini website for a student: [Repo](https://github.com/KevinTss/ec--mini-site-presentation-liege)
 - Shoes store Archiweb: [Repo](https://github.com/KevinTss/archi-web)
 - Courses Malika: [Repo](https://github.com/KevinTss/cours-malika)
+- Courses Souhaila: [Repo](https://github.com/KevinTss/souhaila-web-2)
 
 ### Other
 
