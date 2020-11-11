@@ -85,6 +85,7 @@ I'm Kevin Tassi, and love the development and I will always spend time to learn 
 - Shoes store Archiweb: [Repo](https://github.com/KevinTss/archi-web)
 - Courses Malika: [Repo](https://github.com/KevinTss/cours-malika)
 - Courses Souhaila: [Repo](https://github.com/KevinTss/souhaila-web-2)
+- Course Arujan: [Repo](https://github.com/KevinTss/arujan-groupomania)
 
 ### Other
 
