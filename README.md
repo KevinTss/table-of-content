@@ -44,6 +44,7 @@ I'm Kevin Tassi, and love the development and I will always spend time to learn 
 - JavaScript range datetime picker: [Repo](https://github.com/KevinTss/homemade-rangepicker)
 - Javascript sandbox: [Repo](https://github.com/KevinTss/javascript--sandbox)
 - Firebase: [Repo](https://github.com/KevinTss/firebase-sandbox)
+- Upload with node & multer: [Repo](https://github.com/KevinTss/node-upload-example)
 
 ### Hack Your Future
 
