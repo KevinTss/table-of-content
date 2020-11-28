@@ -88,6 +88,7 @@ I'm Kevin Tassi, and love the development and I will always spend time to learn 
 - Courses Malika: [Repo](https://github.com/KevinTss/cours-malika)
 - Courses Souhaila: [Repo](https://github.com/KevinTss/souhaila-web-2)
 - Course Arujan: [Repo](https://github.com/KevinTss/arujan-groupomania)
+- Course Ousmane: [Repo](https://github.com/KevinTss/cours-ousmane)
 
 ### Other
 
