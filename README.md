@@ -8,6 +8,8 @@ This repo explain all the content of my github account
 - [Forked repositories](#forked)
 - [Assignements I've made](#assignements)
 
+[Other repos](https://github.com/KevinTss/table-of-content-private)
+
 ## Bio
 
 I'm Kevin Tassi, and love the development and I will always spend time to learn and experiment. You can find my work here on github, and my resume [here](https://github.com/KevinTss/resume).
